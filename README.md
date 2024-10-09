@@ -204,7 +204,7 @@ The dataset used in this project comprises millions of Google Analytics records 
   ],
   "language": "en"
 }
-
+```
 **Sentiment Analysis Example:**
 
 ```json
@@ -237,6 +237,7 @@ The dataset used in this project comprises millions of Google Analytics records 
     }
   ]
 }
+```
 
 **Entity Sentiment Analysis Example:**
 ```json
@@ -291,8 +292,10 @@ The dataset used in this project comprises millions of Google Analytics records 
   ],
   "language": "en"
 }
+```
 
-Syntactic Analysis Example:
+**Syntactic Analysis Example:**
+
 ```json
 {
   "tokens": [
@@ -325,8 +328,9 @@ Syntactic Analysis Example:
   ],
   "language": "en"
 }
+```
 
-Multilingual Processing Example:
+**Multilingual Processing Example:**
 ```json
 {
   "entities": [
@@ -370,8 +374,7 @@ Multilingual Processing Example:
   ],
   "language": "ja"
 }
-
-
+```
 
 ## **Key Terminologies**
 
