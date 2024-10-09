@@ -181,7 +181,6 @@ The dataset used in this project comprises millions of Google Analytics records 
 
 ```json
 {
-{
   "entities": [
     {
       "name": "Joanne Rowling",
@@ -204,7 +203,6 @@ The dataset used in this project comprises millions of Google Analytics records 
     ...
   ],
   "language": "en"
-}
 }
 
 **Sentiment Analysis Example:**
