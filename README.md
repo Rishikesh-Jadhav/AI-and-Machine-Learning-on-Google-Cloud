@@ -12,7 +12,7 @@ Welcome to my GitHub repository showcasing two introductory machine learning pro
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overviews](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Project 1: Predict Visitor Purchases with BigQuery ML](#project-1-predict-visitor-purchases-with-bigquery-ml)
   - [Objectives](#objectives)
@@ -32,7 +32,7 @@ Welcome to my GitHub repository showcasing two introductory machine learning pro
 
 ---
 
-## Project Overview
+## Project Overviews
 
 This repository contains two machine learning projects aimed at enhancing my skills in data analysis and natural language processing using Google Cloud tools:
 
