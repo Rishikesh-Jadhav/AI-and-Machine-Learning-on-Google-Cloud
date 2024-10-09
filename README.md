@@ -237,7 +237,9 @@ The dataset used in this project comprises millions of Google Analytics records 
     }
   ]
 }
-Entity Sentiment Analysis Example:
+
+**Entity Sentiment Analysis Example:**
+```json
 {
   "entities": [
     {
@@ -291,7 +293,7 @@ Entity Sentiment Analysis Example:
 }
 
 Syntactic Analysis Example:
-
+```json
 {
   "tokens": [
     {
@@ -325,7 +327,7 @@ Syntactic Analysis Example:
 }
 
 Multilingual Processing Example:
-
+```json
 {
   "entities": [
     {
@@ -368,29 +370,47 @@ Multilingual Processing Example:
   ],
   "language": "ja"
 }
-Key Terminologies
-Google Cloud Natural Language API: A service that provides natural language understanding technologies to extract entities, sentiments, and syntax from text.
-Entity Extraction: Identifying and categorizing key elements (entities) within text, such as people, organizations, locations, etc.
-Sentiment Analysis: Assessing the emotional tone expressed in a text, ranging from negative to positive sentiments.
-Syntactic Analysis: Analyzing the grammatical structure of sentences, including parts of speech and dependency relationships.
-Part of Speech (POS): Categories like noun, verb, adjective that classify words based on their function in a sentence.
-Dependency Edge: The relationship between words in a sentence, indicating how they depend on each other grammatically.
-Lemma: The canonical form of a word, used for uniformity in linguistic analysis.
-Salience: A score indicating the relevance or importance of an entity within the text.
-cURL: A command-line tool used to send HTTP requests, utilized here to interact with APIs.
-API Key: A unique identifier used to authenticate requests to APIs securely.
-Conclusion
+
+
+
+## **Key Terminologies**
+
+- **Google Cloud Natural Language API:** A service that provides natural language understanding technologies to extract entities, sentiments, and syntax from text.
+  
+- **Entity Extraction:** Identifying and categorizing key elements (entities) within text, such as people, organizations, locations, etc.
+  
+- **Sentiment Analysis:** Assessing the emotional tone expressed in a text, ranging from negative to positive sentiments.
+  
+- **Syntactic Analysis:** Analyzing the grammatical structure of sentences, including parts of speech and dependency relationships.
+  
+- **Part of Speech (POS):** Categories like noun, verb, adjective that classify words based on their function in a sentence.
+  
+- **Dependency Edge:** The relationship between words in a sentence, indicating how they depend on each other grammatically.
+  
+- **Lemma:** The canonical form of a word, used for uniformity in linguistic analysis.
+  
+- **Salience:** A score indicating the relevance or importance of an entity within the text.
+  
+- **cURL:** A command-line tool used to send HTTP requests, utilized here to interact with APIs.
+  
+- **API Key:** A unique identifier used to authenticate requests to APIs securely.
+
+## **Conclusion**
+
 These projects have provided me with invaluable hands-on experience in leveraging Google Cloud's machine learning and natural language processing tools. By successfully predicting visitor purchases and performing detailed entity and sentiment analyses, I've deepened my understanding of:
 
-Data Preparation and Exploration: Selecting relevant features and preparing datasets for modeling.
-Model Training and Evaluation: Building logistic regression models and assessing their performance using key metrics.
-API Integration: Utilizing RESTful APIs to perform complex text analyses and interpret their outputs.
-Multilingual Processing: Demonstrating the capability to handle and analyze text in multiple languages seamlessly.
-Future Work
+- **Data Preparation and Exploration:** Selecting relevant features and preparing datasets for modeling.
+- **Model Training and Evaluation:** Building logistic regression models and assessing their performance using key metrics.
+- **API Integration:** Utilizing RESTful APIs to perform complex text analyses and interpret their outputs.
+- **Multilingual Processing:** Demonstrating the capability to handle and analyze text in multiple languages seamlessly.
+
+## **Future Work**
+
 To further enhance these projects and my skill set, I plan to:
 
-Enhance Model Complexity: Experiment with more sophisticated machine learning models (e.g., decision trees, neural networks) in BigQuery ML.
-Real-Time Predictions: Integrate the prediction model into a web application for real-time visitor behavior analysis.
-Advanced NLP Techniques: Explore additional features of the Natural Language API, such as text classification and entity linking.
-Automate Workflow: Develop scripts to automate data ingestion, model training, and prediction processes.
-Expand Multilingual Support: Incorporate more languages and perform comparative analyses of sentiment across different languages.
+- **Enhance Model Complexity:** Experiment with more sophisticated machine learning models (e.g., decision trees, neural networks) in BigQuery ML.
+- **Real-Time Predictions:** Integrate the prediction model into a web application for real-time visitor behavior analysis.
+- **Advanced NLP Techniques:** Explore additional features of the Natural Language API, such as text classification and entity linking.
+- **Automate Workflow:** Develop scripts to automate data ingestion, model training, and prediction processes.
+- **Expand Multilingual Support:** Incorporate more languages and perform comparative analyses of sentiment across different languages.
+
