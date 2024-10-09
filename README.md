@@ -321,7 +321,6 @@ The dataset used in this project comprises millions of Google Analytics records 
       },
       "lemma": "Joanne"
     },
-    ...
   ],
   "language": "en"
 }
@@ -367,7 +366,6 @@ The dataset used in this project comprises millions of Google Analytics records 
         }
       ]
     },
-    ...
   ],
   "language": "ja"
 }
