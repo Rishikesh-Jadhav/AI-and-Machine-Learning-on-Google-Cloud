@@ -6,7 +6,7 @@ Project 1 : Predicting Visitor Purchases with BigQueryML
 
 Project 2 : Entity and Sentiment Analysis with Natural Language API
 
-Welcome to my GitHub repository showcasing two comprehensive machine learning projects completed as part of my preparation for the **Google Cloud Professional Machine Learning Engineer** certification. These projects demonstrate practical applications of **BigQuery ML** and the **Google Cloud Natural Language API** to solve real-world problems in data analysis and natural language processing.
+Welcome to my GitHub repository showcasing two introductory machine learning projects completed as part of my preparation for the **Google Cloud Professional Machine Learning Engineer** certification. These projects demonstrate practical applications of **BigQuery ML** and the **Google Cloud Natural Language API** to solve real-world problems in data analysis and natural language processing.
 
 ---
 
@@ -175,7 +175,7 @@ The dataset used in this project comprises millions of Google Analytics records 
 
 ### Results
 
-**Entity Extraction Example:**
+**Entity Extraction Result:**
 
 ```json
 {
@@ -202,7 +202,7 @@ The dataset used in this project comprises millions of Google Analytics records 
   "language": "en"
 }
 ```
-**Sentiment Analysis Example:**
+**Sentiment Analysis Result:**
 
 ```json
 {
@@ -236,7 +236,7 @@ The dataset used in this project comprises millions of Google Analytics records 
 }
 ```
 
-**Entity Sentiment Analysis Example:**
+**Entity Sentiment Analysis Result:**
 ```json
 {
   "entities": [
@@ -291,7 +291,7 @@ The dataset used in this project comprises millions of Google Analytics records 
 }
 ```
 
-**Syntactic Analysis Example:**
+**Syntactic Analysis Result:**
 
 ```json
 {
@@ -327,7 +327,7 @@ The dataset used in this project comprises millions of Google Analytics records 
 }
 ```
 
-**Multilingual Processing Example:**
+**Multilingual Processing Result:**
 ```json
 {
   "entities": [
@@ -397,7 +397,7 @@ The dataset used in this project comprises millions of Google Analytics records 
 
 ## **Conclusion**
 
-These projects have provided me with invaluable hands-on experience in leveraging Google Cloud's machine learning and natural language processing tools. By successfully predicting visitor purchases and performing detailed entity and sentiment analyses, I've deepened my understanding of:
+These projects have provided me with hands-on experience in leveraging Google Cloud's machine learning and natural language processing tools. By successfully predicting visitor purchases and performing detailed entity and sentiment analyses, I've deepened my understanding of:
 
 - **Data Preparation and Exploration:** Selecting relevant features and preparing datasets for modeling.
 - **Model Training and Evaluation:** Building logistic regression models and assessing their performance using key metrics.
