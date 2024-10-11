@@ -2,7 +2,7 @@
 
 ## Machine Learning Projects
 
-Project 1 : Predicting Visitor Purchases with BigQueryML
+Project 1 : Predicting Purchases with BigQueryML
 
 Project 2 : Entity and Sentiment Analysis with Natural Language API
 
